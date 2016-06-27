@@ -1,0 +1,72 @@
+
+html {
+min-height: 100%;
+}
+
+body{
+	height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	font-size:12px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#333;
+	background-color:#085D37;
+	background: #085d37;
+	background: -moz-linear-gradient(top,  #085d37 0%, #81be41 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#085d37), color-stop(100%,#81be41));
+	background: -webkit-linear-gradient(top,  #085d37 0%,#81be41 100%);
+	background: -o-linear-gradient(top,  #085d37 0%,#81be41 100%);
+	background: -ms-linear-gradient(top,  #085d37 0%,#81be41 100%);
+	background: linear-gradient(to bottom,  #085d37 0%,#81be41 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#085d37', endColorstr='#81be41',GradientType=0 );
+}
+
+iframe {
+	padding-left: 10%;
+}
+
+.logoLarge {
+	margin: 0 0 20px 0;
+}
+
+.images {
+	margin: 0 0 10px 0;
+	border: 1px solid #555;
+}
+
+.info {
+	background-color: #FFF;
+	border: 1px solid #555;
+	text-align: center;
+	margin-left: 15px;
+	width: 1201px;
+	padding: 10px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color:#085D37 ;
+	 display: block;
+}
+
+.styleone:link {
+	text-decoration: underline; 
+	color: #085D37; 
+
+}
+.styleone:visited {
+	text-decoration: none; 
+	color: #085D37;  
+}
+.styleone:hover {
+	text-decoration: none; 
+	color: #000; 
+}
+.styleone:focus {
+	text-decoration: none; 
+	color: #085D37; 
+
+}
+.styleone:active {
+	text-decoration: underline; 
+	color: #085D37; 
+}
